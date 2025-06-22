@@ -1,0 +1,134 @@
+user_id,movie_id,movie_title,genre,rating
+user_1,m5,Forrest Gump,Drama,1
+user_1,m9,Interstellar,Sci-Fi,0
+user_1,m8,Avengers: Endgame,Action,1
+user_1,m3,The Godfather,Crime,1
+user_1,m13,The Social Network,Biography,1
+user_1,m15,The Prestige,Mystery,0
+user_1,m12,The Shawshank Redemption,Drama,1
+user_2,m14,Whiplash,Music,1
+user_2,m5,Forrest Gump,Drama,1
+user_2,m15,The Prestige,Mystery,1
+user_2,m3,The Godfather,Crime,0
+user_2,m4,Pulp Fiction,Crime,1
+user_2,m6,The Matrix,Sci-Fi,1
+user_2,m9,Interstellar,Sci-Fi,0
+user_2,m13,The Social Network,Biography,1
+user_2,m8,Avengers: Endgame,Action,0
+user_3,m14,Whiplash,Music,0
+user_3,m8,Avengers: Endgame,Action,0
+user_3,m1,Inception,Sci-Fi,0
+user_3,m2,The Dark Knight,Action,0
+user_3,m9,Interstellar,Sci-Fi,1
+user_3,m5,Forrest Gump,Drama,1
+user_3,m13,The Social Network,Biography,0
+user_3,m11,Gladiator,Action,1
+user_3,m3,The Godfather,Crime,0
+user_4,m1,Inception,Sci-Fi,1
+user_4,m9,Interstellar,Sci-Fi,1
+user_4,m4,Pulp Fiction,Crime,1
+user_4,m11,Gladiator,Action,0
+user_4,m7,Fight Club,Drama,0
+user_4,m13,The Social Network,Biography,1
+user_4,m6,The Matrix,Sci-Fi,1
+user_5,m13,The Social Network,Biography,0
+user_5,m10,Joker,Drama,1
+user_5,m5,Forrest Gump,Drama,1
+user_5,m3,The Godfather,Crime,0
+user_5,m6,The Matrix,Sci-Fi,0
+user_5,m9,Interstellar,Sci-Fi,1
+user_6,m7,Fight Club,Drama,0
+user_6,m6,The Matrix,Sci-Fi,1
+user_6,m4,Pulp Fiction,Crime,1
+user_6,m14,Whiplash,Music,0
+user_6,m8,Avengers: Endgame,Action,0
+user_6,m2,The Dark Knight,Action,0
+user_7,m6,The Matrix,Sci-Fi,1
+user_7,m3,The Godfather,Crime,1
+user_7,m15,The Prestige,Mystery,1
+user_7,m5,Forrest Gump,Drama,1
+user_7,m10,Joker,Drama,1
+user_7,m7,Fight Club,Drama,0
+user_8,m13,The Social Network,Biography,0
+user_8,m14,Whiplash,Music,1
+user_8,m6,The Matrix,Sci-Fi,1
+user_8,m7,Fight Club,Drama,1
+user_8,m15,The Prestige,Mystery,1
+user_9,m5,Forrest Gump,Drama,1
+user_9,m8,Avengers: Endgame,Action,1
+user_9,m4,Pulp Fiction,Crime,0
+user_9,m3,The Godfather,Crime,1
+user_9,m12,The Shawshank Redemption,Drama,1
+user_9,m9,Interstellar,Sci-Fi,0
+user_9,m6,The Matrix,Sci-Fi,1
+user_10,m9,Interstellar,Sci-Fi,0
+user_10,m12,The Shawshank Redemption,Drama,1
+user_10,m1,Inception,Sci-Fi,1
+user_10,m15,The Prestige,Mystery,0
+user_10,m5,Forrest Gump,Drama,1
+user_10,m10,Joker,Drama,1
+user_10,m3,The Godfather,Crime,1
+user_10,m14,Whiplash,Music,1
+user_11,m1,Inception,Sci-Fi,1
+user_11,m2,The Dark Knight,Action,0
+user_11,m8,Avengers: Endgame,Action,0
+user_11,m15,The Prestige,Mystery,1
+user_11,m10,Joker,Drama,1
+user_12,m5,Forrest Gump,Drama,1
+user_12,m1,Inception,Sci-Fi,0
+user_12,m6,The Matrix,Sci-Fi,1
+user_12,m12,The Shawshank Redemption,Drama,1
+user_12,m4,Pulp Fiction,Crime,1
+user_13,m9,Interstellar,Sci-Fi,1
+user_13,m3,The Godfather,Crime,1
+user_13,m7,Fight Club,Drama,1
+user_13,m6,The Matrix,Sci-Fi,1
+user_13,m14,Whiplash,Music,0
+user_13,m5,Forrest Gump,Drama,1
+user_13,m4,Pulp Fiction,Crime,0
+user_14,m10,Joker,Drama,1
+user_14,m9,Interstellar,Sci-Fi,1
+user_14,m13,The Social Network,Biography,0
+user_14,m14,Whiplash,Music,0
+user_14,m6,The Matrix,Sci-Fi,1
+user_14,m15,The Prestige,Mystery,1
+user_14,m12,The Shawshank Redemption,Drama,1
+user_14,m1,Inception,Sci-Fi,1
+user_14,m3,The Godfather,Crime,0
+user_15,m6,The Matrix,Sci-Fi,1
+user_15,m4,Pulp Fiction,Crime,0
+user_15,m9,Interstellar,Sci-Fi,0
+user_15,m11,Gladiator,Action,0
+user_15,m2,The Dark Knight,Action,0
+user_15,m7,Fight Club,Drama,1
+user_16,m5,Forrest Gump,Drama,0
+user_16,m13,The Social Network,Biography,0
+user_16,m9,Interstellar,Sci-Fi,1
+user_16,m11,Gladiator,Action,1
+user_16,m7,Fight Club,Drama,0
+user_16,m15,The Prestige,Mystery,1
+user_16,m12,The Shawshank Redemption,Drama,0
+user_17,m3,The Godfather,Crime,1
+user_17,m6,The Matrix,Sci-Fi,0
+user_17,m2,The Dark Knight,Action,1
+user_17,m10,Joker,Drama,0
+user_17,m11,Gladiator,Action,1
+user_17,m14,Whiplash,Music,1
+user_17,m1,Inception,Sci-Fi,0
+user_17,m5,Forrest Gump,Drama,0
+user_18,m12,The Shawshank Redemption,Drama,1
+user_18,m7,Fight Club,Drama,1
+user_18,m5,Forrest Gump,Drama,1
+user_18,m4,Pulp Fiction,Crime,1
+user_18,m3,The Godfather,Crime,1
+user_18,m11,Gladiator,Action,1
+user_19,m6,The Matrix,Sci-Fi,1
+user_19,m15,The Prestige,Mystery,1
+user_19,m2,The Dark Knight,Action,0
+user_19,m5,Forrest Gump,Drama,0
+user_19,m1,Inception,Sci-Fi,1
+user_20,m14,Whiplash,Music,0
+user_20,m6,The Matrix,Sci-Fi,1
+user_20,m3,The Godfather,Crime,1
+user_20,m9,Interstellar,Sci-Fi,1
+user_20,m12,The Shawshank Redemption,Drama,1
