@@ -1,0 +1,3 @@
+Collaborative Filtering recommendation engine for movie recommendations.
+
+SVD-based Matrix Factorization approach using the pandas and Surprise libraries.
